@@ -93,6 +93,6 @@ Bj-Weather app is open-source and distributed under the [MIT License](https://op
 
 ## Contact
 
-If you have any questions, suggestions, or feedback regarding Bj-Weather app, feel free to reach out to us via email at bjweather@example.com or create an issue on the GitHub repository.
+If you have any questions, suggestions, or feedback regarding Bj-Weather app, feel free to reach out to us via email at cresshounoukon@gmail.com or create an issue on the GitHub repository.
 
 Thank you for using Bj-Weather! We hope you find it helpful and enjoyable to use.
